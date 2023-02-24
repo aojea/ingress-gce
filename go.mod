@@ -18,6 +18,7 @@ require (
 	k8s.io/apimachinery v0.22.2
 	k8s.io/client-go v0.22.2
 	k8s.io/cloud-provider v0.20.0
+	k8s.io/cloud-provider-gcp/crd v0.0.0-20230223215534-0e6d24b11064
 	k8s.io/component-base v0.20.0
 	k8s.io/klog/v2 v2.50.2
 	k8s.io/kube-openapi v0.0.0-20210421082810-95288971da7e
